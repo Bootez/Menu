@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="FONT_SIZE_10" type="id" />
+    <item name="FONT_SIZE_12" type="id" />
+    <item name="FONT_SIZE_14" type="id" />
+    <item name="FONT_SIZE_16" type="id" />
+
+    <item name="COLOR_RED" type="id" />
+    <item name="COLOR_GREEN" type="id" />
+    <item name="COLOR_BLUE" type="id" />
+</resources>
